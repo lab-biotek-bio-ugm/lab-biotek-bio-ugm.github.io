@@ -11,10 +11,11 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
+          - Head of Laboratory
           - Principal Investigators
           - Researchers
           - Grad Students
-          - Administration
+          - Support Staff
           - Visitors
           - Alumni
       sort_by: Params.last_name

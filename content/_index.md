@@ -8,14 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Biotech Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Biotechnology Laboratory** at Faculty of Biology, Universitas Gadjah Mada, <span style="font-size: smaller;">supports teaching and research in molecular biology, plant tissue culture, microalgae engineering, and genetic engineering.</span>
+
+        <br>
+        <span style="font-size: smaller;">
+        Equipped with modern instruments, it provides facilities for developing technical competencies, applying scientific methods, and fostering innovations in biotechnology.
+        </span>
   
   - block: collection
     content:
@@ -58,23 +62,29 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Publications
       text: ""
-      count: 5
+      count: 3
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'article-journal'
     design:
       view: citation
       columns: '1'
-
-  - block: markdown
+  
+  - block: tag_cloud
     content:
-      title:
+      title: Popular Topics
       subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      text:
+      # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
+      taxonomy: tags
+      # Choose how many tags you would like to display (0 = all tags)
+      count: 20
     design:
-      columns: '1'
+      # Minimum and maximum font sizes (1.0 = 100%).
+      font_size_min: 0.7
+      font_size_max: 2.0
 ---
+
