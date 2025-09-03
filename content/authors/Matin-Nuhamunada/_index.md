@@ -47,9 +47,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:matin_nuhamunada@ugm.ac.id'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/matinnuhamunada
+  - icon: globe
+    icon_pack: fas
+    link: https://matinnu.org
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=E85U-A4AAAAJ&hl

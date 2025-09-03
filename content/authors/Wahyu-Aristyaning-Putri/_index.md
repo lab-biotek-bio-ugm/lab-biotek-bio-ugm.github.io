@@ -19,26 +19,27 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include natural products genome mining and bioengineering.
+bio: Lecturer and researcher in medical sciences and molecular biology with expertise in hepatitis virus genomics, microbial biotechnology, and molecular cloning.
 
 interests:
-  - Natural Products
-  - Genome Mining
-  - Systems Biology
-  - Synthetic Biology
-  - Bioinformatics
+  - Medical Sciences
+  - Viral Genomics
+  - Hepatitis B Virus Quasispecies
+  - Molecular Cloning
+  - Microbial Biotechnology
+  - Nutrigenomics
 
 education:
   courses:
-    - course: PhD in Bioinformatics
-      institution: Technical University of Denmark
-      year: 2024
-    - course: MSc in Synthetic Biology & Biotechnology
-      institution: The University of Edinburgh
-      year: 2016
-    - course: BSc in Biology
-      institution: Universitas Gadjah Mada
+    - course: PhD in Medical Sciences
+      institution: Kobe University, Japan
+      year: 2019
+    - course: MSc in Biology
+      institution: Universitas Gadjah Mada, Indonesia
       year: 2014
+    - course: BSc in Biology
+      institution: Universitas Gadjah Mada, Indonesia
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,16 +48,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:matin_nuhamunada@ugm.ac.id'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/matinnuhamunada
+    link: 'mailto:wahyuaristyaningputri@ugm.ac.id'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=E85U-A4AAAAJ&hl
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/matinnuhamunada
+    link: https://scholar.google.co.uk/citations?hl=en&user=FPH7dqYAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -75,8 +70,6 @@ user_groups:
   - Head of Laboratory
 ---
 
-Matin Nuhamunada received his BSc degree in biology in 2014 from Universitas Gadjah Mada (UGM) in Yogyakarta, Indonesia. He finished his MSc degree in synthetic biology and biotechnology in 2016 from the University of Edinburgh in Scotland, UK. Matin was awarded the Copenhagen Bioscience PhD fellowship from the Novo Nordisk Foundation (NNF) in 2020, where he did his PhD in bioinformatics under the supervision of Prof. Tilmann Weber at the NNF Center for Biosustainability, Technical University of Denmark (DTU Biosustain). During his PhD, he visited Nadine Ziemert's group in the University of Tübingen, Germany, where he contributed to the development of BGC Atlas under the supervision of Caner Bagci. Matin obtained his PhD in 2024 and after a short postdoctoral research at the same group, Matin continues his position as a junior faculty member at the Faculty of Biology, Universitas Gadjah Mada in 2025.
+Dr. Wahyu Aristyaning Putri, S.Si., M.Sc., Ph.D., is a lecturer and researcher at the Faculty of Biology, Universitas Gadjah Mada (UGM). She earned her PhD in Medical Sciences from Kobe University, Japan, in 2019 with a dissertation on the association between Hepatitis B Virus quasispecies variants detected by high-throughput sequencing and the progression of advanced liver disease in Indonesian patients. She previously completed her MSc in Biology at UGM in 2014, focusing on molecular cloning of the *merA* gene from *Streptomycetes*, and her BSc in Biology at UGM in 2011, studying alternative media for nata de fruty production using *Acetobacter xylinum*.  
 
-During his time at DTU Biosustain, Matin has co-authored 6 papers, with his main work includes the development of BGCFlow, an integrated workflow for performing large-scale genome mining of biosynthetic gene clusters. Matin was awarded best poster at the NNF Data Science for Planetary and Human Health symposium for his work in developing BGCFlow and a Retrieval Augmented Generation (RAG) to interact with the local antiSMASH database.
-
-During his MSc studies, Matin participated in the overgraduate team for the 2016 International Genetically Engineered Machine (iGEM) Competition in Boston, US, where his team was awarded a silver medal. Matin was involved in mentoring and supervising the undergraduate iGEM team from UGM, where they were awarded a gold medal in 2021 and 2023. Matin has also received several awards and grants, such as the LPDP Scholarship, ITSF Research Grant, DIPI Small Research Grant. Matin is also an advisory board member of the synbio.id community.
+Her research interests include medical virology, viral genomics, microbial biotechnology, and nutrigenomics. Dr. Putri has received a MEXT scholarship from Kobe University and actively participates in academic development, capacity-building workshops, and biomedical informatics training.

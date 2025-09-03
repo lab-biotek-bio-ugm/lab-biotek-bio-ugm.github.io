@@ -19,20 +19,26 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests is in agricultural biotechnology.
+bio: Researcher and lecturer in plant biotechnology and orchid tissue culture with a focus on molecular genetics and plant epigenetics.
 
 interests:
+  - Plant Biotechnology
+  - Orchid Tissue Culture
+  - Plant Epigenetics
+  - Plant Molecular Biology
   - Agricultural Biotechnology
-  - Plant Tissue Culture
 
 education:
   courses:
     - course: PhD in Biology
       institution: Universitas Gadjah Mada
       year: 2025
+    - course: Master of Biotechnology
+      institution: Graduate School of Biotechnology, Universitas Gadjah Mada
+      year: 2010
     - course: BSc in Biology
-      institution: Universitas Gadjah Mada
-      year: 2003
+      institution: Faculty of Biology, Universitas Gadjah Mada
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,3 +69,7 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
+
+Aries Bagus Sasongko, S.Si., M.Biotech. is a lecturer and researcher at the Faculty of Biology, Universitas Gadjah Mada (UGM). His expertise lies in plant biotechnology and tissue culture, particularly in orchids. He earned his Master’s degree in Biotechnology from UGM in 2010, focusing on genotype identification of orchid hybrids (*Vanda tricolor × Vanda limbata*) using DNA markers. His undergraduate thesis at UGM investigated the effect of zeolite or charcoal-based media and foliar fertilizers on the growth of *Dendrobium Magic Red* orchid seedlings.
+
+Before joining UGM, he worked as Production Staff and Supervisor in the Biological and Pharmaceutical Product Division at PT Medion, Bandung. His current research focuses on orchid biotechnology, tissue culture, and plant epigenetics. He is also an active member of the Indonesian Orchid Association (Perhimpunan Anggrek Indonesia), Yogyakarta branch, since 2017. Aries has participated in numerous professional trainings and workshops, including advanced analytical biochemistry, electron microscopy, DNA sequencing, GC-MS, LC-MS, and qPCR instrumentation.

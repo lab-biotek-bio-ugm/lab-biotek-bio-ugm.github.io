@@ -19,24 +19,27 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Industrial and Environmental Biotechnology.
+bio: Algal biotechnology researcher specializing in biofuel production, biomaterials from diatoms, and active compounds from microalgae.
 
 interests:
-  - Industrial Biotechnology
-  - Environmental Biotechnology
-  - Algae Culture and Engineering
+  - Algal Biotechnology
+  - Biofuel Production
+  - Biomaterials from Diatoms
+  - Active Compounds from Algae
+  - Sustainable Energy
+  - Plant Biotechnology
 
 education:
   courses:
-    - course: PhD in Bioinformatics
-      institution: Technical University of Denmark
-      year: 2024
-    - course: MSc in Synthetic Biology & Biotechnology
-      institution: The University of Edinburgh
-      year: 2016
+    - course: PhD in Biology and Biological Engineering (Sandwich Program)
+      institution: Universitas Gadjah Mada & Chalmers University of Technology
+      year: 2013
+    - course: M.App.Sc. in Marine and Tropical Biology
+      institution: James Cook University, Australia
+      year: 2004
     - course: BSc in Biology
-      institution: Universitas Gadjah Mada
-      year: 2014
+      institution: Universitas Gadjah Mada, Indonesia
+      year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -67,8 +70,6 @@ user_groups:
   - Researchers
 ---
 
-Matin Nuhamunada received his BSc degree in biology in 2014 from Universitas Gadjah Mada (UGM) in Yogyakarta, Indonesia. He finished his MSc degree in synthetic biology and biotechnology in 2016 from the University of Edinburgh in Scotland, UK. Matin was awarded the Copenhagen Bioscience PhD fellowship from the Novo Nordisk Foundation (NNF) in 2020, where he did his PhD in bioinformatics under the supervision of Prof. Tilmann Weber at the NNF Center for Biosustainability, Technical University of Denmark (DTU Biosustain). During his PhD, he visited Nadine Ziemert's group in the University of Tübingen, Germany, where he contributed to the development of BGC Atlas under the supervision of Caner Bagci. Matin obtained his PhD in 2024 and after a short postdoctoral research at the same group, Matin continues his position as a junior faculty member at the Faculty of Biology, Universitas Gadjah Mada in 2025.
+Dr. Eko Agus Suyono is an Associate Professor at the Faculty of Biology, Universitas Gadjah Mada (UGM), specializing in algal biotechnology and sustainable energy. He obtained his master’s degree in Marine and Tropical Biology from James Cook University, Australia (2004), and completed his doctoral studies through a sandwich program between UGM and Chalmers University of Technology, Sweden (2013). His research focuses on algae culture and engineering for biofuel production, biomaterials derived from diatoms, and microalgae-based active compounds. 
 
-During his time at DTU Biosustain, Matin has co-authored 6 papers, with his main work includes the development of BGCFlow, an integrated workflow for performing large-scale genome mining of biosynthetic gene clusters. Matin was awarded best poster at the NNF Data Science for Planetary and Human Health symposium for his work in developing BGCFlow and a Retrieval Augmented Generation (RAG) to interact with the local antiSMASH database.
-
-During his MSc studies, Matin participated in the overgraduate team for the 2016 International Genetically Engineered Machine (iGEM) Competition in Boston, US, where his team was awarded a silver medal. Matin was involved in mentoring and supervising the undergraduate iGEM team from UGM, where they were awarded a gold medal in 2021 and 2023. Matin has also received several awards and grants, such as the LPDP Scholarship, ITSF Research Grant, DIPI Small Research Grant. Matin is also an advisory board member of the synbio.id community.
+He holds multiple national patents in the fields of algal biorefinery, cultivation techniques, and biotechnology training modules. Dr. Suyono has been actively involved in academic leadership at UGM, serving as Vice Dean for Research, Community Service, Collaboration, and Alumni since 2016. Beyond academia, he is the founder and commissioner of Micro Life Technology, and has contributed to national energy initiatives such as the Indonesia–Sweden Energy Initiative. He is also active in professional societies including the Indonesian Aquaculture Society and the Indonesian Biology Association.
